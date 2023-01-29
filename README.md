@@ -75,7 +75,7 @@ Votad democráticamente a un líder, dicho líder deberá:
 
 Una vez hecho eso y cuando hayáis terminado de leer el *README*:
 
-- [ ] Llenadlo de tareas como vosotros mismos decidáis, pero recordad los recursos de los que disponéis (*issues*, *milestones*...).
+- [..] Llenadlo de tareas como vosotros mismos decidáis, pero recordad los recursos de los que disponéis (*issues*, *milestones*...).
 
 Y también, una regla extra, una muy pequeña, casi diminuta:  
 **Ninguna estructura de datos debe estar completamente implementada por una sola persona**.  
