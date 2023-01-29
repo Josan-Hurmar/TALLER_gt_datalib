@@ -63,15 +63,15 @@ Saber implementar y manejar estructuras de datos es algo increíblemente útil e
 
 Votad democráticamente a un líder, dicho líder deberá:
 
-- [ ] Hacer un *fork* de este repositorio.
-- [ ] Invitar al resto del equipo como colaboradores.
+- [X] Hacer un *fork* de este repositorio.
+- [X] Invitar al resto del equipo como colaboradores.
 
 
 ### 01 - Planificación
 
 ¡Un momento! No hay prisa, pensemos las cosas antes de empezar a programar.
 
-- [ ] Cread un *project* para organizar el trabajo con al menos 2 vistas: tablero y kanban.
+- [X] Cread un *project* para organizar el trabajo con al menos 2 vistas: tablero y kanban.
 
 Una vez hecho eso y cuando hayáis terminado de leer el *README*:
 
